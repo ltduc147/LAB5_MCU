@@ -8,7 +8,6 @@
 
 #include "command_parser_fsm.h"
 
-
 uint8_t command_flag = 0;
 uint8_t command_data[10];
 uint8_t length_of_command;

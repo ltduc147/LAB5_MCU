@@ -10,6 +10,7 @@
 
 #include "global.h"
 
+
 extern uint8_t command_flag;
 extern uint8_t command_data[10];
 extern uint8_t length_of_command;
