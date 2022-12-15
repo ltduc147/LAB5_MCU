@@ -10,6 +10,7 @@
 
 uint32_t ADC_value = 0;
 char str[50];
+
 void uart_communication_fsm(){
 	switch (status_communicate){
 		case WAIT_CMD_RST:
